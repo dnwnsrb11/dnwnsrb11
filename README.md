@@ -74,7 +74,9 @@
 ## 📭 연락처 및 블로그
 
 ### 📬 연락처
-<a href="https://velog.io/@dnwnsrb11/posts"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zaman17"/></a>
+<div>
+  <p>email: dnwnsrb11@naver.com</p>
+</div>
 
 ### 🪄 블로그
 최신 글 보러가기
