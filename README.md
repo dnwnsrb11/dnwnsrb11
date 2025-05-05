@@ -78,6 +78,11 @@
   <p>email: dnwnsrb11@naver.com</p>
 </div>
 
+### 🪄 포트폴리오 사이트
+<div>
+  <a href="https://wjg-my-portfolio.vercel.app/"><img src="https://wjg-my-portfolio.vercel.app/img/metaImg.png" height="45"/></a>
+</div>
+
 ### 🪄 블로그
 최신 글 보러가기
 
